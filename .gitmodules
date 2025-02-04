@@ -5,3 +5,6 @@
 [submodule "datadriftR"]
 	path = datadriftR
 	url = https://github.com/ugurdar/datadriftr
+[submodule "shinykanban"]
+	path = shinykanban
+	url = https://github.com/ugurdar/shinykanban
